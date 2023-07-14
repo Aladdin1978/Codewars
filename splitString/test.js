@@ -1,5 +1,5 @@
 const { assert } = require("chai");
-const solution = require("../split-strings");
+const solution = require("./split-strings");
 
 describe("Split Strings", () => {
   it("Basic tests", () => {
